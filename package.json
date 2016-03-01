@@ -1,0 +1,78 @@
+{
+  "name": "ember-multi-group-by",
+  "version": "0.0.3",
+  "description": "An Ember.js computed property macro for grouping objects by given properties.",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "ember build",
+    "start": "ember server",
+    "test": "ember try:testall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeroicEric/ember-group-by.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli-asset-rev": "^2.2.0",
+    "ember-cli": "1.13.13",
+    "ember-cli-app-version": "^1.0.0",
+    "ember-cli-content-security-policy": "0.4.0",
+    "ember-cli-dependency-checker": "^1.1.0",
+    "ember-cli-htmlbars": "^1.0.1",
+    "ember-cli-htmlbars-inline-precompile": "^0.3.1",
+    "ember-cli-ic-ajax": "0.2.4",
+    "ember-cli-inject-live-reload": "^1.3.1",
+    "ember-cli-qunit": "^1.0.4",
+    "ember-cli-release": "0.2.8",
+    "ember-cli-sri": "^1.2.0",
+    "ember-cli-uglify": "^1.2.0",
+    "ember-data": "1.13.15",
+    "ember-disable-proxy-controllers": "^1.0.1",
+    "ember-export-application-global": "^1.0.4",
+    "ember-disable-prototype-extensions": "^1.0.0",
+    "ember-try": "~0.0.8"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-babel": "^5.1.5"
+  },
+  "ember-addon": {
+    "configPath": "tests/dummy/config"
+  },
+  "gitHead": "640a470668178400a110fd8eeb93ad48aaaa7ae8",
+  "bugs": {
+    "url": "https://github.com/HeroicEric/ember-group-by/issues"
+  },
+  "homepage": "https://github.com/HeroicEric/ember-group-by#readme",
+  "_id": "ember-group-by@0.0.3",
+  "_shasum": "fa04f1ed2be2016db00ccd64c53a0018b8d5300f",
+  "_from": "ember-group-by@0.0.3",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "name": "heroiceric",
+    "email": "heroiceric@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "heroiceric",
+      "email": "heroiceric@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "fa04f1ed2be2016db00ccd64c53a0018b8d5300f",
+    "tarball": "http://registry.npmjs.org/ember-group-by/-/ember-group-by-0.0.3.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/ember-group-by/-/ember-group-by-0.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
