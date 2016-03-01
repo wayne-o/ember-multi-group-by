@@ -1,3 +1,3 @@
-import groupBy from './macros/group-by';
+import groupBy from './macros/multi-group-by';
 
-export default groupBy;
+export default multiGroupBy;

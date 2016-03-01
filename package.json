@@ -1,6 +1,6 @@
 {
   "name": "ember-multi-group-by",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Ember.js computed property macro for grouping objects by given properties.",
   "directories": {
     "doc": "doc",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HeroicEric/ember-group-by.git"
+    "url": "git+https://github.com/wayne-o/ember-multi-group-by.git"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -48,31 +48,5 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  },
-  "gitHead": "640a470668178400a110fd8eeb93ad48aaaa7ae8",
-  "bugs": {
-    "url": "https://github.com/HeroicEric/ember-group-by/issues"
-  },
-  "homepage": "https://github.com/HeroicEric/ember-group-by#readme",
-  "_id": "ember-group-by@0.0.3",
-  "_shasum": "fa04f1ed2be2016db00ccd64c53a0018b8d5300f",
-  "_from": "ember-group-by@0.0.3",
-  "_npmVersion": "2.14.4",
-  "_nodeVersion": "4.1.2",
-  "_npmUser": {
-    "name": "heroiceric",
-    "email": "heroiceric@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "heroiceric",
-      "email": "heroiceric@gmail.com"
-    }
-  ],
-  "dist": {
-    "shasum": "fa04f1ed2be2016db00ccd64c53a0018b8d5300f",
-    "tarball": "http://registry.npmjs.org/ember-group-by/-/ember-group-by-0.0.3.tgz"
-  },
-  "_resolved": "https://registry.npmjs.org/ember-group-by/-/ember-group-by-0.0.3.tgz",
-  "readme": "ERROR: No README data found!"
+  }
 }
