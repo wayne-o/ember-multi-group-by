@@ -51,6 +51,7 @@ export default function multiGroupBy(collection, properties, context) {
 	var mapped = _.map(data, function(x) {
 		var ret = x.toJSON({ includeId: true });
 		ret.original = x;
+		return ret;
 	});
 
 	var dg = new DataGrouper(mapped, properties);
