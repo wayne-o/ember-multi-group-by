@@ -1,5 +1,7 @@
 # ember-multi-group-by
 
+[NOTE: this project is now out of date]
+
 ember-group-by provides a computed property macro for grouping objects by a
 given property.
 
